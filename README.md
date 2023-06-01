@@ -1,8 +1,6 @@
 # CheckpointRecursion
 Recursion checkpoint GoMyCode
 
-
-
 ```javascript /**
 
  * Determines whether a word is a palindrome. If a word can be read both from left to right and from right to left, it is a palindrome.
